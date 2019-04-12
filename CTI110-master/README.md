@@ -1,4 +1,4 @@
-# CTI 110 Repository
+# CTI 110 Repository (Python)
 Created for M2LAB1
-Curry
+Jenaya R. Curry
 17 September 2017
